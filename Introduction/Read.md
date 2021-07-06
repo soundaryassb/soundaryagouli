@@ -9,6 +9,9 @@ The Calculator application can be used by any bosy in order to calculate easily,
 - The System is efficient and fast in response.
 - The System can be customized according to needs.
 
+https://raw.githubusercontent.com/sirisatwika/LandT_MiniProject/main/1_Requirements/usecase.png
+
+
 # Defining our System:
 
 The application focuses on simple mathematical operations
